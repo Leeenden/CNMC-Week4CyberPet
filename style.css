@@ -49,8 +49,8 @@
     flex-wrap: wrap;
     align-content: space-evenly;
     justify-content: space-around;
-
 }
+
 /* ------------------- Screen Top (thirst, hunger, happiness bars) ------------------------------ */
 #screen #screenTop{
     height: 10%;
